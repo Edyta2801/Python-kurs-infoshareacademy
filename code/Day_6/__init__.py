@@ -1,0 +1,10 @@
+__all__ = ['funkcje_1',
+           'funkcje_2',
+           'funkcje_3',
+           'funkcje_4',
+           'funkcje_5',
+           'funkcje_6',
+           'funkcje_7',
+           'funkcje_8',
+           'funkcje_9',
+           'funkcje_10']

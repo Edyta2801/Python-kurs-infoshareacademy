@@ -1,0 +1,6 @@
+imie,nazwisko,wiek
+Adam,Kowalski,23
+Anna,Tomczak,24
+Andrzej,Nowak,34
+arek,gutkowski,30
+pamela,anderson,50
